@@ -6,7 +6,9 @@ This is the official implementation of **MICCAI 2024** paper "***Data Augmentati
 
 The proposed data augmentation method "Explore and Exploit Augment" (EEA) can improve the representation ability of small-scale data to improve the classification performance of different types of DL models.
 
-![图片描述](.\Fig.1.jpg)
+<p align="center">
+    <img src="Fig.1.jpg" alt="EEA" width="80%">
+</p>
 
 ---
 

@@ -30,4 +30,13 @@ The proposed data augmentation method "Explore and Exploit Augment" (EEA) can im
 
 ## Cite this paper
 
-Coming soon :)
+```
+@inproceedings{xiao2024data,
+  title={Data Augmentation with Multi-armed Bandit on Image Deformations Improves Fluorescence Glioma Boundary Recognition},
+  author={Xiao, Anqi and Han, Keyi and Shi, Xiaojing and Tian, Jie and Hu, Zhenhua},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={130--140},
+  year={2024},
+  organization={Springer}
+}
+```
